@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "outDir": "build/js",
+    "allowJs": true,
+    "target": "ESNext",
+    "moduleResolution": "node",
+    // "module": "NodeNext",
+    "esModuleInterop": true,
+    // "moduleResolution": "NodeNext",
+    "baseUrl": ".",
+    "paths": {
+      "*": ["src/node_modules/*", "*"]
+    },
+
+  },
+  "include": ["src/main/ts/**/*"]
+}
+

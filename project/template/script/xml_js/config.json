@@ -1,0 +1,10 @@
+{
+    "type": 1,
+    "ui": 1,
+    "ts": false,
+    "version": "v0.0.1",
+    "app": {
+        "version": "0.1.0",
+        "package": "test.ccc"
+    }
+}

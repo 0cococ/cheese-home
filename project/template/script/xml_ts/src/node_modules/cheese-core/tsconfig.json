@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "outDir": "./js",
+    "declarationDir": "./@types",
+    "allowJs": true,
+    "target": "ESNext",
+    // "module": "CommonJS",
+    // "moduleResolution": "Node",
+    "baseUrl": ".",
+  
+  },
+  "include": ["./ts"]
+}

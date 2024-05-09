@@ -1,0 +1,6 @@
+<LinearLayout height="match_parent" width="match_parent" orientation="vertical" gravity="center">
+    <Button height="wrap_content" text="第一个按钮" width="wrap_content" />
+    <Button height="wrap_content" id="t2" text="第二个按钮" width="wrap_content" />
+    <EditText height="wrap_content" width="200dp" hint="我是提示输入内容" />
+    <TextView height="wrap_content" text="我是文本" width="wrap_content" background="red" />
+</LinearLayout>

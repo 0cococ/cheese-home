@@ -1,0 +1,11 @@
+{
+    "name": "magichands-core",
+    "version":"1.0.0",
+    "main": "index.js",
+    "exports": {
+      ".": {
+        "import": "./index.js",
+        "require": "./index.js"
+      }
+    }
+}

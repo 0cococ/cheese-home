@@ -1,0 +1,17 @@
+<LinearLayout height="match_parent" width="match_parent" orientation="vertical" gravity="center">
+    <Button height="wrap_content" text="第一个按钮" width="wrap_content" />
+    <Button height="wrap_content" id="t2" text="第二个按钮" width="wrap_content" />
+    <EditText height="wrap_content" width="200dp" hint="我是提示输入内容" />
+    <TextView height="wrap_content" text="我是文本" width="wrap_content" background="red" />
+</LinearLayout>
+
+
+        在线文档：http://101.200.84.35/
+        云盘：https://www.123pan.com/s/rS25Vv-Rcng3.html
+        视频教程:https://space.bilibili.com/355273412
+        诉求反馈：
+        https://docs.qq.com/smartsheet/DVUxWaUhuc2l0UGF4
+        开源仓库：
+        (奶酪)https://github.com/0cococ/cheese
+        (奶酪文档):https://github.com/0cococ/cheese-docs
+        (奶酪环境):https://github.com/0cococ/cheese-home
